@@ -92,7 +92,7 @@ const YesNoComponent = () => {
             src={image}
             alt=""
           />
-          <h1 className="text-2xl">Will you be my Valentine? </h1>
+          <h1 className="text-2xl">Will you be my Girlfriend?(Which you already are.)</h1>
         </div>
         <div>
           <button
